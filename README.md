@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leonardo Castro!
 
-<!--
-**leocastrob/leocastrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full Stack dedicado e proativo, com experiência em desenvolvimento web, automação e computação. Tenho foco em criar soluções tecnológicas eficientes, utilizando boas práticas de programação, metodologias ágeis e uma variedade de ferramentas modernas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, Angular, Vue.js, Next.js
+- **Back-End:** Node.js, Python, Express, APIs REST
+- **Banco de Dados:** MySQL, SQL Server, MongoDB
+- **Outros:** Git, GitHub, Figma, UML, testes automatizados, cloud computing (Azure), inteligência artificial (AI-900, PL-900)
+- **Metodologias:** Scrum, Kanban, modelagem de sistemas
+
+## 📚 Formação Acadêmica
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** – Anhanguera, conclusão prevista: 2026
+- 🖥️ **Desenvolvedor Front-End** – SENAI (2024)
+- 🐍 **Programação em Python** – SENAI (2025)
+- 🌐 **Projetos de Sistemas Web** – IFRS (2024)
+- 📡 **Telecomunicações e Redes** – SENAI (2019)
+- 💻 **Fundamentos da Computação** – IFRS (2023)
+
+## 🌟 Certificações
+
+- Microsoft Azure AI Fundamentals (AI-900)
+- Microsoft Power Platform Fundamentals (PL-900)
+- Lógica de Programação – SENAI
+
+## 📌 Projetos em Destaque
+
+- [📝 Lista de Tarefas](https://github.com/leocastrob/listadetarefas)
+- [🔐 Página de Login](https://github.com/leocastrob/projetologin)
+- [🌍 Portfólio Online](https://portifolio-leonardo-castro.vercel.app/)
+
+## 💬 Idiomas
+
+- 🇺🇸 Inglês (intermediário)
+- 🇪🇸 Espanhol (básico)
+
+## 📫 Contato
+
+- 📧 Email: leonardobarbosadecastro@gmail.com  
+- 💼 LinkedIn: [leonardo-b-castro](https://www.linkedin.com/in/leonardo-b-castro)  
+- 💻 GitHub: [leocastrob](https://github.com/leocastrob)  
+- 🌐 Portfólio: [portifolio-leonardo-castro.vercel.app](https://portifolio-leonardo-castro.vercel.app/)
+
+---
+
+⭐ *Estou em busca de oportunidades como Desenvolvedor Full Stack para aplicar minhas habilidades e contribuir com projetos desafiadores. Vamos conversar?*
