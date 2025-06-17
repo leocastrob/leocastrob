@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Leonardo Castro!
 
-Sou um desenvolvedor Full Stack dedicado e proativo, com experiência em desenvolvimento web, automação e computação. Tenho foco em criar soluções tecnológicas eficientes, utilizando boas práticas de programação, metodologias ágeis e uma variedade de ferramentas modernas.
+Sou um desenvolvedor Front-End dedicado e proativo, com experiência em desenvolvimento web, automação e computação. Tenho foco em criar soluções tecnológicas eficientes, utilizando boas práticas de programação, metodologias ágeis e uma variedade de ferramentas modernas.
 
 ## 🚀 Tecnologias e Ferramentas
 
